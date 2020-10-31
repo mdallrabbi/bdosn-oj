@@ -144,7 +144,7 @@ kombu==3.0.37
 launchpadlib==1.10.6
 lazr.restfulclient==0.13.5
 lazr.uri==1.0.3
-louis==3.5.0
+#louis==3.5.0
 lru-dict==1.1.6
 lxml==4.2.1
 macaroonbakery==1.1.3
