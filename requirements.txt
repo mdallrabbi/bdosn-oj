@@ -272,7 +272,7 @@ static3==0.7.0
 stripe==1.53.0
 structlog==17.2.0
 #system-service==0.3
-systemd-python==234
+#systemd-python==234
 testresources==2.0.1
 text-unidecode==1.2
 texttable==1.6.2
