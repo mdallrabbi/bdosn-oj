@@ -42,7 +42,7 @@ coreapi==2.3.3
 coreschema==0.0.4
 crispy-forms-semantic-ui==0.2.0
 cryptography==3.2
-cupshelpers==1.0
+#cupshelpers==1.0
 cycler==0.10.0
 cytoolz==0.9.0.1
 daphne==2.4.1
