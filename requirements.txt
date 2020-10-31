@@ -226,7 +226,7 @@ pytest-mock==1.10.4
 pytest-pythonpath==0.7.3
 pytest-watch==4.2.0
 pytest-xdist==1.28.0
-python-apt==1.6.3
+#python-apt==1.6.3
 python-dateutil==2.8.0
 python-debian==0.1.32
 python-decouple==3.1
