@@ -204,7 +204,7 @@ pycparser==2.18
 pycrypto==2.6.1
 pycryptodome==3.8.1
 pycups==1.9.73
-pycurl==7.43.0.1
+#pycurl==7.43.0.1
 pyethash==0.1.27
 pyflakes==1.5.0
 Pygments==2.2.0
