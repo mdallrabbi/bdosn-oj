@@ -291,7 +291,7 @@ txaio==18.8.1
 #ubuntu-drivers-common==0.0.0
 #ufw==0.35
 ujson==1.35
-unattended-upgrades==0.1
+#unattended-upgrades==0.1
 unity-scope-calculator==0.1
 unity-scope-chromiumbookmarks==0.1
 unity-scope-colourlovers==0.1
