@@ -207,7 +207,7 @@ pycups==1.9.73
 #pycurl==7.43.0.1
 pyethash==0.1.27
 pyflakes==1.5.0
-Pygments==2.2.0
+Pygments==2.7.4
 #pygobject==3.26.1
 PyHamcrest==2.0.0
 pyhocon==0.3.38
