@@ -13,7 +13,7 @@ attrdict==2.0.1
 attrs==17.4.0
 autobahn==20.1.2
 Automat==0.8.0
-Babel==2.6.0
+Babel==2.9.1
 backcall==0.1.0
 base58==1.0.3
 bcrypt==3.1.7
