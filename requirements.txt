@@ -52,7 +52,7 @@ defusedxml==0.6.0
 #distro-info==0.18
 dj-database-url==0.4.1
 dj-static==0.0.6
-Django==2.2.13
+Django==2.2.27
 django-allauth==0.39.1
 django-appconf==1.0.3
 django-bootstrap3==7.0.1
