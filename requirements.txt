@@ -286,7 +286,7 @@ tqdm==4.32.1
 traitlets==4.3.2
 trie==1.4.0
 twine==1.13.0
-Twisted==20.3.0
+Twisted==22.10.0
 txaio==18.8.1
 #ubuntu-drivers-common==0.0.0
 #ufw==0.35
